@@ -1,0 +1,4 @@
+TextRick
+========
+
+Git for textRick
